@@ -1,13 +1,6 @@
-// =========================
-// CURRENT YEAR
-// =========================
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
-
-// =========================
-// CONTACT FORM
-// =========================
 
 const contactForm = document.getElementById("contactForm");
 const formNote = document.getElementById("formNote");
